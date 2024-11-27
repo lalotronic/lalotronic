@@ -16,7 +16,7 @@
 
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <span style="padding-right: 30px;">
+        <span style="padding-right: 30">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
         </span>
     </a>
