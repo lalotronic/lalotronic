@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Enrique</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h3 align="center">Soy un apasionado desarrollador frontend y mobile Chile, de profesion Ingeniero Electrónico, docente por vocación amante de la música y el buen café</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalotronic&label=Profile%20views&color=0e75b6&style=flat" alt="lalotronic" /> </p>
 
