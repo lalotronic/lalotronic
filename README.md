@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrique</h1>
-<h3 align="center">Soy un apasionado desarrollador frontend y mobile, de profesion Ingeniero Electrónico, docente por vocación amante de la música y el buen café</h3>
+<h3 align="center">Soy un apasionado desarrollador frontend y mobile, docente por vocación amante de la música y el buen café</h3>
 
 - 🌱 Actualmente estoy cursando :**Fullstack JS, Curso de aplicaciones móviles**
 
