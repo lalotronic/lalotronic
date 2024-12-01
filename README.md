@@ -13,7 +13,7 @@
     <a href="https://developer.android.com" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40";"/>
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <a href="https://www.arduino.cc/" target="blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="border: 2px solid black;"/>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
