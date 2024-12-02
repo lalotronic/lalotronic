@@ -50,5 +50,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border: 2px solid black;"/>
     </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalotronic)](https://github.com/lalotronic/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalotronic)](https://github.com/anuraghazra/github-readme-stats)
 
