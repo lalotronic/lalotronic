@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalotronic&show_icons=true&theme=onedark)
 <h1 align="center">Hi 👋, I'm Enrique</h1>
 <h3 align="center">Soy un apasionado desarrollador frontend y mobile, docente por vocación amante de la música y el buen café</h3>
 
@@ -51,5 +50,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border: 2px solid black;"/>
     </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalotronic)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalotronic&show_icons=true&theme=onedark)
 
