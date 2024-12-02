@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalotronic)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Enrique</h1>
 <h3 align="center">Soy un apasionado desarrollador frontend y mobile, docente por vocación amante de la música y el buen café</h3>
 
