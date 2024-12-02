@@ -50,16 +50,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border: 2px solid black;"/>
     </a>
 </p>
-    <style>
-        .center {
-            display: flex;
-            justify-content: center; /* Centra horizontalmente */
-            align-items: center; /* Centra verticalmente */
-            height: 100vh; /* Opcional: altura del contenedor */
-        }
-    </style>
-        <div class="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lalotronic&show_icons=true&theme=onedark" alt="Anurag's GitHub stats">
-    </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalotronic&hide=contribs,prs)
 
 
